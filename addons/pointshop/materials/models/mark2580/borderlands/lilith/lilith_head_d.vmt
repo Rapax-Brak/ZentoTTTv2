@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+    "$basetexture"         "models/mark2580/borderlands/Lilith/lilith_head_d"
+    "$bumpmap"             "models/mark2580/borderlands/Lilith/lilith_head_n"
+
+	"$phong"               "1"
+	"$phongboost"	       "0.5"
+	"$phongexponent"       "10"
+	"$phongfresnelranges"  "[.01 .01 .01]"
+        "$nocull"              "1"
+}

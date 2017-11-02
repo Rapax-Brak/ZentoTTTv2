@@ -1,0 +1,30 @@
+"VertexLitGeneric"
+{
+    "$basetexture"         "models/mark2580/borderlands/Lilith/lilith_body_d_color"
+    "$bumpmap"             "models/mark2580/borderlands/Lilith/lilith_body_n"
+
+	"$phong"               "1"
+	"$phongboost"	       "0.5"
+	"$phongexponent"       "10"
+	"$phongfresnelranges"  "[.01 .01 .01]"
+        "$nocull"              "1"
+
+	"$blendtintbybasealpha"   "1" 
+ 	"$blendtintcoloroverbase" "0"
+
+        "Proxies"
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		1.00 1.00 1.0
+		}
+		Clamp
+		{
+			min 0.15
+			max 0.90
+			srcVar1 "$color2"
+			resultVar "$color2"
+		}
+	}
+}

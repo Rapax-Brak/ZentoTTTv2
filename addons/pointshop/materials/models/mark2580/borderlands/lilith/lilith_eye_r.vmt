@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+"$iris"               "models/mark2580/borderlands/Lilith/lilith_eye"
+"$AmbientOcclTexture" "models/mark2580/borderlands/Lilith/pupil_ambient"                
+"$Envmap"             "models/mark2580/borderlands/Lilith/eye-reflection-cubemap" 
+"$CorneaTexture"      "models/mark2580/borderlands/Lilith/nothing_eye"
+
+"$AmbientOcclColor"   "[.5 .5 .5]"
+"$Dilation"           ".5"   
+"$ParallaxStrength"   ".12" 
+"$CorneaBumpStrength" "0.0"
+"$halflambert"        "1"
+"$nodecal"            "1"
+"$RaytraceSphere"     "0"
+"$SphereTexkillCombo" "0"
+}

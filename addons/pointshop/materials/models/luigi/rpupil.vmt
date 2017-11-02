@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\luigi/rpupil"
+               "$halflambert"1 
+ 	"$alphatest"1
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\luigi/shader"
+               "$halflambert"1 
+ 	"$translucent"1
+}
