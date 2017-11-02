@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "trails/dolan"
+	"$vertexalpha" 1
+	"$vertexcolor" 1
+}
