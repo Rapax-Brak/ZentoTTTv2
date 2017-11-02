@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "VGUI/entities/clt_m4a4_asim"
+	"$nolod" 1
+	"$vertexalpha" 1
+	"$vertexcolor" 1 
+}
