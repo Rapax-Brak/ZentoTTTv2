@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\smario/white"
+	"$translucent" 1
+}

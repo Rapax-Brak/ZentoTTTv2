@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models\smario/shader"
+	"$translucent" 1
+}

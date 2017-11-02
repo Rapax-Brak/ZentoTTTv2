@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$baseTexture" "models/smario/eye"
+	 "$halflambert"1 
+	"$nocull"1
+}
