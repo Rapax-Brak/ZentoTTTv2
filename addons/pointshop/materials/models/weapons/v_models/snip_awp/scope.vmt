@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\v_models\snip_awp\scope"
+//	"$envmap" "env_cubemap"
+}
